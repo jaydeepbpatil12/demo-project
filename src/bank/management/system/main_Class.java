@@ -105,6 +105,6 @@ public class main_Class extends JFrame implements ActionListener {
     }
 
     public static void main(String[] args) {
-        new main_Class("");
+        new Login();
     }
 }
